@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[vim命令]]></title>
     <url>%2F2017%2F12%2F16%2Fvim%E5%91%BD%E4%BB%A4%2F</url>
-    <content type="text"><![CDATA[移动命令复制命令模式]]></content>
+    <content type="text"><![CDATA[显示pattern在文本中出现的所有行。类似于notepadd++的在当前文件中查找:lvimgrep /pattern/ % | lopen]]></content>
       <categories>
         <category>vim</category>
       </categories>
